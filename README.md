@@ -2,7 +2,7 @@
 
 Me chamo Maria Eloisa
 
- -Estou estudando aqui pelo Alura;
+ -Estou estudando aqui pelo [Alura](https://www.alura.com.br)
   
  -Estou me desenvolvendo na liguagem JavaScript;
 
