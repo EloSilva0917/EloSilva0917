@@ -1,6 +1,6 @@
 ## Olá, Seja bem vindo ao meu perfil 😄
 
-Me chamo Maria Eloisa
+Me chamo Maria Eloisa,mas gosto que me chamem de Elo
 
  -Estou estudando aqui pelo [Alura](https://www.alura.com.br)
   
